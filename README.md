@@ -1,0 +1,1 @@
+this project taught me how to check SSH link, link computer folders to github repo and create folders
